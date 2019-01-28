@@ -1,4 +1,4 @@
-package com.ashutak.ok;
+package com.ashutak.tasks.ok;
 
 public class HelloHelper {
     void sayHello() {
