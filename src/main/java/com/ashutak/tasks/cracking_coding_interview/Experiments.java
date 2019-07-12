@@ -9,10 +9,6 @@ public class Experiments {
     public static void main(String[] args) {
         var m = new HashMap<Integer, String>();
 
-        var v = new Map.Entry<Integer, String>();
-        int res = Integer.M;
-        Arrays.binarySearch()
-
         Object[] objects = m
                 .entrySet()
                 .stream()
